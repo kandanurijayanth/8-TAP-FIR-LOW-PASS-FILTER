@@ -25,7 +25,7 @@ and synthesized using Xilinx Vivado.
 MATLAB/
 Verilog/
 Simulation/
-Synthesis/
+Synthesis/Images
 
 ## Results
 
