@@ -29,15 +29,15 @@ Synthesis/
 
 ## Results
 
-✔ Behavioral Simulation
+- Behavioral Simulation
 
-✔ RTL Schematic
+- RTL Schematic
 
-✔ Area Report
+- Area Report
 
-✔ Timing Report
+- Timing Report
 
-✔ Power Report
+- Power Report
 
 ## Author
 
